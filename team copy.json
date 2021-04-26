@@ -1,0 +1,114 @@
+{
+    "players": [{
+            "name": "A de villiers",
+            "credit": 10,
+            "type": "wk",
+            "team": "blr"
+
+        },
+        {
+            "name": "M dhoni",
+            "credit": 8.5,
+            "type": "wk",
+            "team": "csk"
+        },
+        {
+            "name": "V Kohli",
+            "credit": 10.5,
+            "type": "bat",
+            "team": "blr"
+        },
+        {
+            "name": "F d Plesis",
+            "credit": 10,
+            "type": "bat",
+            "team": "csk"
+        }, {
+            "name": "D padikal",
+            "credit": 9,
+            "type": "bat",
+            "team": "blr"
+        }, {
+            "name": "S raina",
+            "credit": 9,
+            "type": "bat",
+            "team": "csk"
+        }, {
+            "name": "R Gaikwad",
+            "credit": 8,
+            "type": "bat",
+            "team": "csk"
+        }, {
+            "name": "M Ali",
+            "credit": 9.5,
+            "type": "ar",
+            "team": "csk"
+        }, {
+            "name": "G Maxwell",
+            "credit": 9.5,
+            "type": "ar",
+            "team": "blr"
+        }, {
+            "name": "S Curran",
+            "credit": 9,
+            "type": "ar",
+            "team": "csk"
+        }, {
+            "name": "R jadega",
+            "credit": 9,
+            "type": "ar",
+            "team": "csk"
+        }, {
+            "name": "S Ahmed",
+            "credit": 8,
+            "type": "ar",
+            "team": "blr"
+        }, {
+            "name": "W Sundar",
+            "credit": 8,
+            "type": "ar",
+            "team": "blr"
+        }, {
+            "name": "H Patel",
+            "credit": 9,
+            "type": "bowl",
+            "team": "blr"
+        }, {
+            "name": "M Siraj",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "blr"
+        }, {
+            "name": "L Ngidi",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "csk"
+        }, {
+            "name": "S Thakur",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "csk"
+        }, {
+            "name": "K Jamieson",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "blr"
+        }, {
+            "name": "K Richardson",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "blr"
+        }, {
+            "name": "Y chahal",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "blr"
+        }, {
+            "name": "D chahar",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "csk"
+        }
+    ],
+    "mandatory_players": ["V kohli", "D padikal", "R Gaikwad", "G Maxwell", "M Ali", "R jadega", "L Ngidi"]
+}

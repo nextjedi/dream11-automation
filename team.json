@@ -1,0 +1,155 @@
+{
+    "players": [{
+            "name": "L Rahul",
+            "credit": 10.5,
+            "type": "wk",
+            "team": "pbks",
+            "point": 33
+
+        },
+        {
+            "name": "E Morgan",
+            "credit": 9,
+            "type": "bat",
+            "team": "kol",
+            "point": 91
+
+        }, {
+            "name": "M Henriques",
+            "credit": 9,
+            "type": "ar",
+            "team": "pbks",
+            "point": 31
+
+        },
+        {
+            "name": "D karthik",
+            "credit": 8.5,
+            "type": "wk",
+            "team": "kol",
+            "point": 26
+        }, {
+            "name": "N Pooran",
+            "credit": 8.5,
+            "type": "wk",
+            "team": "pbks",
+            "point": 26
+        },
+        {
+            "name": "C Gayle",
+            "credit": 9.5,
+            "type": "bat",
+            "team": "pbks",
+            "point": 2
+        },
+        {
+            "name": "N Rana",
+            "credit": 9,
+            "type": "bat",
+            "team": "kol",
+            "point": 2
+        }, {
+            "name": "S Gill",
+            "credit": 9,
+            "type": "bat",
+            "team": "kol",
+            "point": 15
+        }, {
+            "name": "R Tripathi",
+            "credit": 8,
+            "type": "bat",
+            "team": "kol",
+            "point": 64
+        }, {
+            "name": "A Russel",
+            "credit": 10.5,
+            "type": "ar",
+            "team": "kol",
+            "point": 16
+        }, {
+            "name": "S Narine",
+            "credit": 9,
+            "type": "ar",
+            "team": "kol",
+            "point": 72
+        }, {
+            "name": "P Cummins",
+            "credit": 9,
+            "type": "bowl",
+            "team": "kol",
+            "point": 52
+        }, {
+            "name": "V chakrabarthy",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "kol",
+            "point": 39
+        }, {
+            "name": "P krishna",
+            "credit": 9,
+            "type": "bowl",
+            "team": "kol",
+            "point": 91
+        }, {
+            "name": "S Mavi",
+            "credit": 8,
+            "type": "bowl",
+            "team": "kol",
+            "point": 35
+        }, {
+            "name": "M Agrawal",
+            "credit": 9,
+            "type": "bat",
+            "team": "pbks",
+            "point": 44
+        }, {
+            "name": "D Hooda",
+            "credit": 8.5,
+            "type": "ar",
+            "team": "pbks",
+            "point": 30
+        }, {
+            "name": "S Khan",
+            "credit": 8,
+            "type": "bat",
+            "team": "pbks",
+            "point": 35
+        }, {
+            "name": "M Shami",
+            "credit": 9,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 40
+        }, {
+            "name": "A Singh",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 34
+        }, {
+            "name": "M Ashwin",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 0
+        }, {
+            "name": "R Bishnoi",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 19
+        }, {
+            "name": "J Richardson",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 0
+        }, {
+            "name": "C Jordan",
+            "credit": 8.5,
+            "type": "bowl",
+            "team": "pbks",
+            "point": 45
+        }
+    ]
+}
